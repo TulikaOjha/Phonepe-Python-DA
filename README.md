@@ -1,4 +1,4 @@
-# PythonCaseStudy
+# Python PhonePe Case Study
 This case study focuses on analyzing transaction data from the financial application PhonePe, along with demographic data across various states and districts in India. The primary goal is to uncover insights into transaction trends, user behavior, device usage, and demographic correlations while ensuring data consistency. 
 
 The dataset spans multiple years (2018-2021) and quarters, providing a comprehensive view of transactions, user activity, and demographic patterns. The case study demonstrates Python skills for data loading, preprocessing, exploration, and visualization to generate meaningful insights.
