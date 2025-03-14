@@ -60,3 +60,15 @@ Area (sq km): Area of the district in square kilometers
 Density: Population density  
 Code: District code  
 Alternate Name: Alternate name of the district  
+
+# Explore it
+Explore it and twist it to your own use case. In case of any questions feel free to reach me directly at ojhatulika@outlook.com.  
+
+# Issues
+In case you have any difficulties or issues while trying to run the script you can raise an issue.  
+
+# Pull Requests
+If you have something to add, I welcome pull requests on improvement; your helpful contributions will be merged.  
+
+# Give it a Star
+If you find this repo useful, give it a star.  
